@@ -22,7 +22,7 @@
       } else {
         // Passed
         // Reciepent Email
-        $toEmail = 'repzzaj@hotmail.com';
+        $toEmail = 'test@hotmail.com';
         $subject = 'Contact Request from '.$name;
         $body = '<h2>Contact Request</h2>
           <h4>Name</h4><p>'.$name.'</p>
